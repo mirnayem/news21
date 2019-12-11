@@ -1,0 +1,21 @@
+#post_img {
+
+    height: 400px;
+    width: 100%;
+}
+
+
+.reply-btn,
+.comment-btn {
+    background-color: #f6214b;
+    color: #fff;
+
+    &:hover {
+        background-color: #9b0422;
+    }
+}
+
+
+#archivelink {
+    color: orange;
+}
